@@ -5,7 +5,7 @@ A simple online file-sharing system that supports various file types and generat
 - **Max File Size**: 100MB
 - **Time Limit**: 1 Hour
 
-🚀 **Live Demo:** [portfolio_demo_ver](https://kingslayer458.github.io/my-deployed-web-applications/)
+🚀 **Live Demo:** [portfolio_demo_ver](https://kingslayer458.github.io/File-Sharing-system-version-2/)
 
 ## Installation
 
