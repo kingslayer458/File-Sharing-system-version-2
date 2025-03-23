@@ -1,11 +1,6 @@
 # File-Sharing-system-version-2
 A simple online file-sharing system that supports various file types and generates shareable links via tmpfiles.org
 
-
-# FileShare - Secure File Sharing
-
-FileShare is a web-based application for fast and secure file sharing. Upload files, generate shareable links, and share instantly without registration.
-
 ## Limits:
 - **Max File Size**: 100MB
 - **Time Limit**: 1 Hour
